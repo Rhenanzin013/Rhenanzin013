@@ -1,16 +1,18 @@
-### Hi there 👋
+## Olá, Me chamo Rhenan Rose! 
+Seja bem-vindo ao meu cantinho de conhecimentos!
 
-<!--
-**Rhenanzin013/Rhenanzin013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Atualmente ingressando no mercado de TI
+- 💻 Estudando: Html, Css, Js entre outros...
+- 🎓 Cursando: Tecnólogo de "ADS" (*análise e desenvolvimento de sistemas*)
+- 👥 Pronouns: ele/dele
+<hr>
 
-Here are some ideas to get you started:
+📊*Meu desenvolvimento*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhenanzin013&show_icons=true&theme=midnight-purple)
+
+<hr>
+
+📊*atualização constante desse painel*
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhenanzin013&hide_progress=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
