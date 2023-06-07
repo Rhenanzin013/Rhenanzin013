@@ -2,7 +2,7 @@
 Seja bem-vindo ao meu cantinho de conhecimentos!
 
 - 💼 Atualmente ingressando no mercado de TI
-- 💻 Estudando: Html, Css, Js entre outros...
+- 💻 Estudando: Python, Js, Php, Sql entre outros...
 - 🎓 Cursando: Tecnólogo de "ADS" (*análise e desenvolvimento de sistemas*)
 - 👥 Pronouns: ele/dele
 <hr>
