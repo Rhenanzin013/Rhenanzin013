@@ -9,7 +9,7 @@ Seja bem-vindo ao meu cantinho de conhecimentos!
 
 📊*Meu desenvolvimento*
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhenanzin013&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhenanzin013&show_icons=true&theme=maroongold)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -42,4 +42,4 @@ Seja bem-vindo ao meu cantinho de conhecimentos!
 
 📊*atualização constante desse painel*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhenanzin013&hide_progress=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhenanzin013&hide_progress=true&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
