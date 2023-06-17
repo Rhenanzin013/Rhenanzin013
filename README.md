@@ -1,6 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-
 ## Olá, Me chamo Rhenan Rose! 
 Seja bem-vindo ao meu cantinho de conhecimentos!
 
@@ -15,9 +12,9 @@ Seja bem-vindo ao meu cantinho de conhecimentos!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhenanzin013&show_icons=true&theme=midnight-purple)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-            <i class="devicon-python-plain ">10</i>
-
-  
+            <i class="devicon-python-plain "></i>
+            <i font size 10>   
+            
 
 
 <hr>
@@ -25,3 +22,4 @@ Seja bem-vindo ao meu cantinho de conhecimentos!
 📊*atualização constante desse painel*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhenanzin013&hide_progress=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
