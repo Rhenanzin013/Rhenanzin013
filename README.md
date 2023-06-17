@@ -11,6 +11,9 @@ Seja bem-vindo ao meu cantinho de conhecimentos!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhenanzin013&show_icons=true&theme=midnight-purple)
 
+
+
+
 <hr>
 
 📊*atualização constante desse painel*
